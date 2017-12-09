@@ -6,4 +6,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/lib64/libkeymaster_messages.so:system/lib64/vndk/libkeymaster_messages.so \
 	vendor/vndk/lib64/libavservices_minijail.so:system/lib64/vndk/libavservices_minijail.so \
 	vendor/vndk/lib/libavservices_minijail.so:system/lib/vndk/libavservices_minijail.so \
+	vendor/vndk/lib64/libstagefright_omx.so:system/lib64/vndk/libstagefright_omx.so \
+	vendor/vndk/lib/libstagefright_omx.so:system/lib/vndk/libstagefright_omx.so \
 
