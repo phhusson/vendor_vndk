@@ -8,4 +8,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/lib/libavservices_minijail.so:system/lib/vndk/libavservices_minijail.so \
 	vendor/vndk/lib64/libstagefright_omx.so:system/lib64/vndk/libstagefright_omx.so \
 	vendor/vndk/lib/libstagefright_omx.so:system/lib/vndk/libstagefright_omx.so \
+	vendor/vndk/lib64/android.hidl.base@1.0.so:system/lib64/vndk/android.hidl.base@1.0.so \
+	vendor/vndk/lib/android.hidl.base@1.0.so:system/lib/vndk/android.hidl.base@1.0.so \
 
