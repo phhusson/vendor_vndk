@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libprotobuf-cpp-full.so:system/lib/vndk-26/libprotobuf-cpp-full.so \
 	vendor/vndk/vndk-26-arm32/libprotobuf-cpp-lite.so:system/lib/vndk-26/libprotobuf-cpp-lite.so \
 	vendor/vndk/vndk-26-arm32/libradio_metadata.so:system/lib/vndk-26/libradio_metadata.so \
+	vendor/vndk/vndk-26-arm32/librilutils.so:system/lib/vndk-26/librilutils.so \
 	vendor/vndk/vndk-26-arm32/libselinux.so:system/lib/vndk-26/libselinux.so \
 	vendor/vndk/vndk-26-arm32/libsoftkeymasterdevice.so:system/lib/vndk-26/libsoftkeymasterdevice.so \
 	vendor/vndk/vndk-26-arm32/libspeexresampler.so:system/lib/vndk-26/libspeexresampler.so \
@@ -232,6 +233,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm64/libprotobuf-cpp-full.so:system/lib64/vndk-26/libprotobuf-cpp-full.so \
 	vendor/vndk/vndk-26-arm64/libprotobuf-cpp-lite.so:system/lib64/vndk-26/libprotobuf-cpp-lite.so \
 	vendor/vndk/vndk-26-arm64/libradio_metadata.so:system/lib64/vndk-26/libradio_metadata.so \
+	vendor/vndk/vndk-26-arm64/librilutils.so:system/lib64/vndk-26/librilutils.so \
 	vendor/vndk/vndk-26-arm64/libselinux.so:system/lib64/vndk-26/libselinux.so \
 	vendor/vndk/vndk-26-arm64/libsoftkeymasterdevice.so:system/lib64/vndk-26/libsoftkeymasterdevice.so \
 	vendor/vndk/vndk-26-arm64/libspeexresampler.so:system/lib64/vndk-26/libspeexresampler.so \
