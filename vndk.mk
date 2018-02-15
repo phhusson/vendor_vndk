@@ -295,6 +295,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm32/libhidlmemory.so:system/lib/vndk-sp-26/libhidlmemory.so \
 	vendor/vndk/vndk-sp-26-arm32/libhidltransport.so:system/lib/vndk-sp-26/libhidltransport.so \
 	vendor/vndk/vndk-sp-26-arm32/libhwbinder.so:system/lib/vndk-sp-26/libhwbinder.so \
+	vendor/vndk/vndk-sp-26-arm32/libion.so:system/lib/vndk-sp-26/libion.so \
 	vendor/vndk/vndk-sp-26-arm32/liblzma.so:system/lib/vndk-sp-26/liblzma.so \
 	vendor/vndk/vndk-sp-26-arm32/libpng.so:system/lib/vndk-sp-26/libpng.so \
 	vendor/vndk/vndk-sp-26-arm32/libRSCpuRef.so:system/lib/vndk-sp-26/libRSCpuRef.so \
