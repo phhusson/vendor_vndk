@@ -90,6 +90,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libicuuc.so:system/lib/vndk-26/libicuuc.so \
 	vendor/vndk/vndk-26-arm32/libimg_utils.so:system/lib/vndk-26/libimg_utils.so \
 	vendor/vndk/vndk-26-arm32/libinput.so:system/lib/vndk-26/libinput.so \
+	vendor/vndk/vndk-26-arm32/libjavacore.so:system/lib/vndk-26/libjavacore.so \
 	vendor/vndk/vndk-26-arm32/libjnigraphics.so:system/lib/vndk-26/libjnigraphics.so \
 	vendor/vndk/vndk-26-arm32/libjpeg.so:system/lib/vndk-26/libjpeg.so \
 	vendor/vndk/vndk-26-arm32/libkeymaster1.so:system/lib/vndk-26/libkeymaster1.so \
@@ -271,6 +272,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm64/libicuuc.so:system/lib64/vndk-26/libicuuc.so \
 	vendor/vndk/vndk-26-arm64/libimg_utils.so:system/lib64/vndk-26/libimg_utils.so \
 	vendor/vndk/vndk-26-arm64/libinput.so:system/lib64/vndk-26/libinput.so \
+	vendor/vndk/vndk-26-arm64/libjavacore.so:system/lib64/vndk-26/libjavacore.so \
 	vendor/vndk/vndk-26-arm64/libjnigraphics.so:system/lib64/vndk-26/libjnigraphics.so \
 	vendor/vndk/vndk-26-arm64/libjpeg.so:system/lib64/vndk-26/libjpeg.so \
 	vendor/vndk/vndk-26-arm64/libkeymaster1.so:system/lib64/vndk-26/libkeymaster1.so \
