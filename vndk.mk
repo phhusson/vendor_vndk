@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/android.hidl.base@1.0.so:system/lib/vndk-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hidl.token@1.0.so:system/lib/vndk-26/android.hidl.token@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hidl.token@1.0-utils.so:system/lib/vndk-26/android.hidl.token@1.0-utils.so \
+	vendor/vndk/vndk-26-arm32/android.system.net.netd@1.0.so:system/lib/vndk-26/android.system.net.netd@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.system.wifi.keystore@1.0.so:system/lib/vndk-26/android.system.wifi.keystore@1.0.so \
 	vendor/vndk/vndk-26-arm32/libandroidfw.so:system/lib/vndk-26/libandroidfw.so \
 	vendor/vndk/vndk-26-arm32/libandroid_runtime.so:system/lib/vndk-26/libandroid_runtime.so \
@@ -236,6 +237,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm64/android.hidl.base@1.0.so:system/lib64/vndk-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-26-arm64/android.hidl.token@1.0.so:system/lib64/vndk-26/android.hidl.token@1.0.so \
 	vendor/vndk/vndk-26-arm64/android.hidl.token@1.0-utils.so:system/lib64/vndk-26/android.hidl.token@1.0-utils.so \
+	vendor/vndk/vndk-26-arm64/android.system.net.netd@1.0.so:system/lib64/vndk-26/android.system.net.netd@1.0.so \
 	vendor/vndk/vndk-26-arm64/android.system.wifi.keystore@1.0.so:system/lib64/vndk-26/android.system.wifi.keystore@1.0.so \
 	vendor/vndk/vndk-26-arm64/libandroidfw.so:system/lib64/vndk-26/libandroidfw.so \
 	vendor/vndk/vndk-26-arm64/libandroid_runtime.so:system/lib64/vndk-26/libandroid_runtime.so \
