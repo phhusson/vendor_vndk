@@ -179,6 +179,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libvorbisidec.so:system/lib/vndk-26/libvorbisidec.so \
 	vendor/vndk/vndk-26-arm32/libvulkan.so:system/lib/vndk-26/libvulkan.so \
 	vendor/vndk/vndk-26-arm32/libwifi-service.so:system/lib/vndk-26/libwifi-service.so \
+	vendor/vndk/vndk-26-arm32/libwifi-system.so:system/lib/vndk-26/libwifi-system.so \
 	vendor/vndk/vndk-26-arm32/libxml2.so:system/lib/vndk-26/libxml2.so \
 	vendor/vndk/vndk-26-arm32/libyuv.so:system/lib/vndk-26/libyuv.so \
 	vendor/vndk/vndk-26-arm32/libziparchive.so:system/lib/vndk-26/libziparchive.so \
