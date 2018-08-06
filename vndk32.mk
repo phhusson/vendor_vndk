@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/android.hardware.radio.deprecated@1.0.so:system/lib/vndk-26/android.hardware.radio.deprecated@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hardware.sensors@1.0.so:system/lib/vndk-26/android.hardware.sensors@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hardware.soundtrigger@2.0.so:system/lib/vndk-26/android.hardware.soundtrigger@2.0.so \
+	vendor/vndk/vndk-26-arm32/android.hardware.tetheroffload.config@1.0.so:system/lib/vndk-26/android.hardware.tetheroffload.config@1.0.so \
+	vendor/vndk/vndk-26-arm32/android.hardware.tetheroffload.control@1.0.so:system/lib/vndk-26/android.hardware.tetheroffload.control@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hardware.thermal@1.0.so:system/lib/vndk-26/android.hardware.thermal@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hardware.tv.cec@1.0.so:system/lib/vndk-26/android.hardware.tv.cec@1.0.so \
 	vendor/vndk/vndk-26-arm32/android.hardware.tv.input@1.0.so:system/lib/vndk-26/android.hardware.tv.input@1.0.so \
@@ -145,6 +147,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libstagefright_enc_common.so:system/lib/vndk-26/libstagefright_enc_common.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_foundation.so:system/lib/vndk-26/libstagefright_foundation.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_omx.so:system/lib/vndk-26/libstagefright_omx.so \
+	vendor/vndk/vndk-26-arm32/libstagefright.so:system/lib/vndk-26/libstagefright.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_soft_aacdec.so:system/lib/vndk-26/libstagefright_soft_aacdec.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_soft_aacenc.so:system/lib/vndk-26/libstagefright_soft_aacenc.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_soft_amrdec.so:system/lib/vndk-26/libstagefright_soft_amrdec.so \
