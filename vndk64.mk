@@ -216,4 +216,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm64/libunwind.so:system/lib64/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm64/android.hidl.base@1.0.so:system/lib64/vndk-sp-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-sp-26-arm64/libft2.so:system/lib64/vndk-sp-26/libft2.so \
+	vendor/vndk/vndk-27-arm64/libeffectsconfig.so:system/lib64/vndk-27/libeffectsconfig.so \
+	vendor/vndk/vndk-27-arm64/liblogwrap.so:system/lib64/vndk-27/liblogwrap.so \
+	vendor/vndk/vndk-27-arm64/libstdc++.so:system/lib64/vndk-27/libstdc++.so \
 
