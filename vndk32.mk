@@ -142,6 +142,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libsoftkeymaster.so:system/lib/vndk-26/libsoftkeymaster.so \
 	vendor/vndk/vndk-26-arm32/libsonivox.so:system/lib/vndk-26/libsonivox.so \
 	vendor/vndk/vndk-26-arm32/libsoundtrigger.so:system/lib/vndk-26/libsoundtrigger.so \
+	vendor/vndk/vndk-26-arm32/libsparse.so:system/lib/vndk-26/libsparse.so \
 	vendor/vndk/vndk-26-arm32/libspeexresampler.so:system/lib/vndk-26/libspeexresampler.so \
 	vendor/vndk/vndk-26-arm32/libsqlite.so:system/lib/vndk-26/libsqlite.so \
 	vendor/vndk/vndk-26-arm32/libssl.so:system/lib/vndk-26/libssl.so \
@@ -219,5 +220,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm32/libft2.so:system/lib/vndk-sp-26/libft2.so \
 	vendor/vndk/vndk-27-arm32/libeffectsconfig.so:system/lib/vndk-27/libeffectsconfig.so \
 	vendor/vndk/vndk-27-arm32/liblogwrap.so:system/lib/vndk-27/liblogwrap.so \
+	vendor/vndk/vndk-27-arm32/libsparse.so:system/lib/vndk-27/libsparse.so \
 	vendor/vndk/vndk-27-arm32/libstdc++.so:system/lib/vndk-27/libstdc++.so \
 
