@@ -218,8 +218,51 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm32/libunwind.so:system/lib/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm32/android.hidl.base@1.0.so:system/lib/vndk-sp-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-sp-26-arm32/libft2.so:system/lib/vndk-sp-26/libft2.so \
+	vendor/vndk/vndk-27-arm32/libandroidfw.so:system/lib/vndk-27/libandroidfw.so \
+	vendor/vndk/vndk-27-arm32/libandroid_runtime.so:system/lib/vndk-27/libandroid_runtime.so \
+	vendor/vndk/vndk-27-arm32/libandroid.so:system/lib/vndk-27/libandroid.so \
+	vendor/vndk/vndk-27-arm32/libappfuse.so:system/lib/vndk-27/libappfuse.so \
+	vendor/vndk/vndk-27-arm32/libaudioclient.so:system/lib/vndk-27/libaudioclient.so \
+	vendor/vndk/vndk-27-arm32/libaudiomanager.so:system/lib/vndk-27/libaudiomanager.so \
+	vendor/vndk/vndk-27-arm32/libcamera_client.so:system/lib/vndk-27/libcamera_client.so \
+	vendor/vndk/vndk-27-arm32/libdebuggerd_client.so:system/lib/vndk-27/libdebuggerd_client.so \
+	vendor/vndk/vndk-27-arm32/libdng_sdk.so:system/lib/vndk-27/libdng_sdk.so \
 	vendor/vndk/vndk-27-arm32/libeffectsconfig.so:system/lib/vndk-27/libeffectsconfig.so \
+	vendor/vndk/vndk-27-arm32/libETC1.so:system/lib/vndk-27/libETC1.so \
+	vendor/vndk/vndk-27-arm32/libGLESv2.so:system/lib/vndk-27/libGLESv2.so \
+	vendor/vndk/vndk-27-arm32/libGLESv3.so:system/lib/vndk-27/libGLESv3.so \
+	vendor/vndk/vndk-27-arm32/libgraphicsenv.so:system/lib/vndk-27/libgraphicsenv.so \
+	vendor/vndk/vndk-27-arm32/libharfbuzz_ng.so:system/lib/vndk-27/libharfbuzz_ng.so \
+	vendor/vndk/vndk-27-arm32/libheif.so:system/lib/vndk-27/libheif.so \
+	vendor/vndk/vndk-27-arm32/libhwui.so:system/lib/vndk-27/libhwui.so \
+	vendor/vndk/vndk-27-arm32/libicui18n.so:system/lib/vndk-27/libicui18n.so \
+	vendor/vndk/vndk-27-arm32/libicuuc.so:system/lib/vndk-27/libicuuc.so \
+	vendor/vndk/vndk-27-arm32/libimg_utils.so:system/lib/vndk-27/libimg_utils.so \
+	vendor/vndk/vndk-27-arm32/libinput.so:system/lib/vndk-27/libinput.so \
+	vendor/vndk/vndk-27-arm32/libjnigraphics.so:system/lib/vndk-27/libjnigraphics.so \
 	vendor/vndk/vndk-27-arm32/liblogwrap.so:system/lib/vndk-27/liblogwrap.so \
+	vendor/vndk/vndk-27-arm32/libmediadrm.so:system/lib/vndk-27/libmediadrm.so \
+	vendor/vndk/vndk-27-arm32/libmediametrics.so:system/lib/vndk-27/libmediametrics.so \
+	vendor/vndk/vndk-27-arm32/libmedia.so:system/lib/vndk-27/libmedia.so \
+	vendor/vndk/vndk-27-arm32/libmediautils.so:system/lib/vndk-27/libmediautils.so \
+	vendor/vndk/vndk-27-arm32/libmemunreachable.so:system/lib/vndk-27/libmemunreachable.so \
+	vendor/vndk/vndk-27-arm32/libminikin.so:system/lib/vndk-27/libminikin.so \
+	vendor/vndk/vndk-27-arm32/libnativebridge.so:system/lib/vndk-27/libnativebridge.so \
+	vendor/vndk/vndk-27-arm32/libnativehelper.so:system/lib/vndk-27/libnativehelper.so \
+	vendor/vndk/vndk-27-arm32/libnativeloader.so:system/lib/vndk-27/libnativeloader.so \
+	vendor/vndk/vndk-27-arm32/libnetd_client.so:system/lib/vndk-27/libnetd_client.so \
+	vendor/vndk/vndk-27-arm32/libpackagelistparser.so:system/lib/vndk-27/libpackagelistparser.so \
+	vendor/vndk/vndk-27-arm32/libpdfium.so:system/lib/vndk-27/libpdfium.so \
+	vendor/vndk/vndk-27-arm32/libpowermanager.so:system/lib/vndk-27/libpowermanager.so \
+	vendor/vndk/vndk-27-arm32/libprocessgroup.so:system/lib/vndk-27/libprocessgroup.so \
+	vendor/vndk/vndk-27-arm32/libRScpp.so:system/lib/vndk-27/libRScpp.so \
+	vendor/vndk/vndk-27-arm32/libselinux.so:system/lib/vndk-27/libselinux.so \
+	vendor/vndk/vndk-27-arm32/libsensor.so:system/lib/vndk-27/libsensor.so \
+	vendor/vndk/vndk-27-arm32/libskia.so:system/lib/vndk-27/libskia.so \
+	vendor/vndk/vndk-27-arm32/libsonivox.so:system/lib/vndk-27/libsonivox.so \
+	vendor/vndk/vndk-27-arm32/libsoundtrigger.so:system/lib/vndk-27/libsoundtrigger.so \
 	vendor/vndk/vndk-27-arm32/libsparse.so:system/lib/vndk-27/libsparse.so \
 	vendor/vndk/vndk-27-arm32/libstdc++.so:system/lib/vndk-27/libstdc++.so \
+	vendor/vndk/vndk-27-arm32/libvintf.so:system/lib/vndk-27/libvintf.so \
+	vendor/vndk/vndk-27-arm32/libvulkan.so:system/lib/vndk-27/libvulkan.so \
 

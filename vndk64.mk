@@ -217,8 +217,51 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm64/libunwind.so:system/lib64/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm64/android.hidl.base@1.0.so:system/lib64/vndk-sp-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-sp-26-arm64/libft2.so:system/lib64/vndk-sp-26/libft2.so \
+	vendor/vndk/vndk-27-arm64/libandroidfw.so:system/lib64/vndk-27/libandroidfw.so \
+	vendor/vndk/vndk-27-arm64/libandroid_runtime.so:system/lib64/vndk-27/libandroid_runtime.so \
+	vendor/vndk/vndk-27-arm64/libandroid.so:system/lib64/vndk-27/libandroid.so \
+	vendor/vndk/vndk-27-arm64/libappfuse.so:system/lib64/vndk-27/libappfuse.so \
+	vendor/vndk/vndk-27-arm64/libaudioclient.so:system/lib64/vndk-27/libaudioclient.so \
+	vendor/vndk/vndk-27-arm64/libaudiomanager.so:system/lib64/vndk-27/libaudiomanager.so \
+	vendor/vndk/vndk-27-arm64/libcamera_client.so:system/lib64/vndk-27/libcamera_client.so \
+	vendor/vndk/vndk-27-arm64/libdebuggerd_client.so:system/lib64/vndk-27/libdebuggerd_client.so \
+	vendor/vndk/vndk-27-arm64/libdng_sdk.so:system/lib64/vndk-27/libdng_sdk.so \
 	vendor/vndk/vndk-27-arm64/libeffectsconfig.so:system/lib64/vndk-27/libeffectsconfig.so \
+	vendor/vndk/vndk-27-arm64/libETC1.so:system/lib64/vndk-27/libETC1.so \
+	vendor/vndk/vndk-27-arm64/libGLESv2.so:system/lib64/vndk-27/libGLESv2.so \
+	vendor/vndk/vndk-27-arm64/libGLESv3.so:system/lib64/vndk-27/libGLESv3.so \
+	vendor/vndk/vndk-27-arm64/libgraphicsenv.so:system/lib64/vndk-27/libgraphicsenv.so \
+	vendor/vndk/vndk-27-arm64/libharfbuzz_ng.so:system/lib64/vndk-27/libharfbuzz_ng.so \
+	vendor/vndk/vndk-27-arm64/libheif.so:system/lib64/vndk-27/libheif.so \
+	vendor/vndk/vndk-27-arm64/libhwui.so:system/lib64/vndk-27/libhwui.so \
+	vendor/vndk/vndk-27-arm64/libicui18n.so:system/lib64/vndk-27/libicui18n.so \
+	vendor/vndk/vndk-27-arm64/libicuuc.so:system/lib64/vndk-27/libicuuc.so \
+	vendor/vndk/vndk-27-arm64/libimg_utils.so:system/lib64/vndk-27/libimg_utils.so \
+	vendor/vndk/vndk-27-arm64/libinput.so:system/lib64/vndk-27/libinput.so \
+	vendor/vndk/vndk-27-arm64/libjnigraphics.so:system/lib64/vndk-27/libjnigraphics.so \
 	vendor/vndk/vndk-27-arm64/liblogwrap.so:system/lib64/vndk-27/liblogwrap.so \
+	vendor/vndk/vndk-27-arm64/libmediadrm.so:system/lib64/vndk-27/libmediadrm.so \
+	vendor/vndk/vndk-27-arm64/libmediametrics.so:system/lib64/vndk-27/libmediametrics.so \
+	vendor/vndk/vndk-27-arm64/libmedia.so:system/lib64/vndk-27/libmedia.so \
+	vendor/vndk/vndk-27-arm64/libmediautils.so:system/lib64/vndk-27/libmediautils.so \
+	vendor/vndk/vndk-27-arm64/libmemunreachable.so:system/lib64/vndk-27/libmemunreachable.so \
+	vendor/vndk/vndk-27-arm64/libminikin.so:system/lib64/vndk-27/libminikin.so \
+	vendor/vndk/vndk-27-arm64/libnativebridge.so:system/lib64/vndk-27/libnativebridge.so \
+	vendor/vndk/vndk-27-arm64/libnativehelper.so:system/lib64/vndk-27/libnativehelper.so \
+	vendor/vndk/vndk-27-arm64/libnativeloader.so:system/lib64/vndk-27/libnativeloader.so \
+	vendor/vndk/vndk-27-arm64/libnetd_client.so:system/lib64/vndk-27/libnetd_client.so \
+	vendor/vndk/vndk-27-arm64/libpackagelistparser.so:system/lib64/vndk-27/libpackagelistparser.so \
+	vendor/vndk/vndk-27-arm64/libpdfium.so:system/lib64/vndk-27/libpdfium.so \
+	vendor/vndk/vndk-27-arm64/libpowermanager.so:system/lib64/vndk-27/libpowermanager.so \
+	vendor/vndk/vndk-27-arm64/libprocessgroup.so:system/lib64/vndk-27/libprocessgroup.so \
+	vendor/vndk/vndk-27-arm64/libRScpp.so:system/lib64/vndk-27/libRScpp.so \
+	vendor/vndk/vndk-27-arm64/libselinux.so:system/lib64/vndk-27/libselinux.so \
+	vendor/vndk/vndk-27-arm64/libsensor.so:system/lib64/vndk-27/libsensor.so \
+	vendor/vndk/vndk-27-arm64/libskia.so:system/lib64/vndk-27/libskia.so \
+	vendor/vndk/vndk-27-arm64/libsonivox.so:system/lib64/vndk-27/libsonivox.so \
+	vendor/vndk/vndk-27-arm64/libsoundtrigger.so:system/lib64/vndk-27/libsoundtrigger.so \
 	vendor/vndk/vndk-27-arm64/libsparse.so:system/lib64/vndk-27/libsparse.so \
 	vendor/vndk/vndk-27-arm64/libstdc++.so:system/lib64/vndk-27/libstdc++.so \
+	vendor/vndk/vndk-27-arm64/libvintf.so:system/lib64/vndk-27/libvintf.so \
+	vendor/vndk/vndk-27-arm64/libvulkan.so:system/lib64/vndk-27/libvulkan.so \
 
