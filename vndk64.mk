@@ -227,6 +227,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libdebuggerd_client.so:system/lib64/vndk-27/libdebuggerd_client.so \
 	vendor/vndk/vndk-27-arm64/libdng_sdk.so:system/lib64/vndk-27/libdng_sdk.so \
 	vendor/vndk/vndk-27-arm64/libeffectsconfig.so:system/lib64/vndk-27/libeffectsconfig.so \
+	vendor/vndk/vndk-27-arm64/libEGL.so:system/lib64/vndk-27/libEGL.so \
 	vendor/vndk/vndk-27-arm64/libETC1.so:system/lib64/vndk-27/libETC1.so \
 	vendor/vndk/vndk-27-arm64/libGLESv2.so:system/lib64/vndk-27/libGLESv2.so \
 	vendor/vndk/vndk-27-arm64/libGLESv3.so:system/lib64/vndk-27/libGLESv3.so \
