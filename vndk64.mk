@@ -189,34 +189,34 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm64/libxml2.so:system/lib64/vndk-26/libxml2.so \
 	vendor/vndk/vndk-26-arm64/libyuv.so:system/lib64/vndk-26/libyuv.so \
 	vendor/vndk/vndk-26-arm64/libziparchive.so:system/lib64/vndk-26/libziparchive.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.mapper@2.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.mapper@2.0.so \
-	vendor/vndk/vndk-sp-26-arm64/hw/android.hidl.memory@1.0-impl.so:system/lib64/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so \
-	vendor/vndk/vndk-sp-26-arm64/libutils.so:system/lib64/vndk-sp-26/libutils.so \
-	vendor/vndk/vndk-sp-26-arm64/libbcinfo.so:system/lib64/vndk-sp-26/libbcinfo.so \
-	vendor/vndk/vndk-sp-26-arm64/libhidltransport.so:system/lib64/vndk-sp-26/libhidltransport.so \
-	vendor/vndk/vndk-sp-26-arm64/libbase.so:system/lib64/vndk-sp-26/libbase.so \
-	vendor/vndk/vndk-sp-26-arm64/libpng.so:system/lib64/vndk-sp-26/libpng.so \
-	vendor/vndk/vndk-sp-26-arm64/libbacktrace.so:system/lib64/vndk-sp-26/libbacktrace.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hardware.renderscript@1.0.so:system/lib64/vndk-sp-26/android.hardware.renderscript@1.0.so \
-	vendor/vndk/vndk-sp-26-arm64/libRS_internal.so:system/lib64/vndk-sp-26/libRS_internal.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hidl.memory@1.0.so:system/lib64/vndk-sp-26/android.hidl.memory@1.0.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.allocator@2.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.allocator@2.0.so \
-	vendor/vndk/vndk-sp-26-arm64/libhwbinder.so:system/lib64/vndk-sp-26/libhwbinder.so \
-	vendor/vndk/vndk-sp-26-arm64/libion.so:system/lib64/vndk-sp-26/libion.so \
-	vendor/vndk/vndk-sp-26-arm64/libc++.so:system/lib64/vndk-sp-26/libc++.so \
-	vendor/vndk/vndk-sp-26-arm64/libcutils.so:system/lib64/vndk-sp-26/libcutils.so \
 	vendor/vndk/vndk-sp-26-arm64/libRSDriver.so:system/lib64/vndk-sp-26/libRSDriver.so \
-	vendor/vndk/vndk-sp-26-arm64/libblas.so:system/lib64/vndk-sp-26/libblas.so \
-	vendor/vndk/vndk-sp-26-arm64/libhidlbase.so:system/lib64/vndk-sp-26/libhidlbase.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.common@1.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.common@1.0.so \
+	vendor/vndk/vndk-sp-26-arm64/libunwind.so:system/lib64/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm64/libhardware.so:system/lib64/vndk-sp-26/libhardware.so \
-	vendor/vndk/vndk-sp-26-arm64/libRSCpuRef.so:system/lib64/vndk-sp-26/libRSCpuRef.so \
-	vendor/vndk/vndk-sp-26-arm64/liblzma.so:system/lib64/vndk-sp-26/liblzma.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hardware.renderscript@1.0.so:system/lib64/vndk-sp-26/android.hardware.renderscript@1.0.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.common@1.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.common@1.0.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hidl.base@1.0.so:system/lib64/vndk-sp-26/android.hidl.base@1.0.so \
 	vendor/vndk/vndk-sp-26-arm64/libcompiler_rt.so:system/lib64/vndk-sp-26/libcompiler_rt.so \
 	vendor/vndk/vndk-sp-26-arm64/libhidlmemory.so:system/lib64/vndk-sp-26/libhidlmemory.so \
-	vendor/vndk/vndk-sp-26-arm64/libunwind.so:system/lib64/vndk-sp-26/libunwind.so \
-	vendor/vndk/vndk-sp-26-arm64/android.hidl.base@1.0.so:system/lib64/vndk-sp-26/android.hidl.base@1.0.so \
+	vendor/vndk/vndk-sp-26-arm64/liblzma.so:system/lib64/vndk-sp-26/liblzma.so \
+	vendor/vndk/vndk-sp-26-arm64/libblas.so:system/lib64/vndk-sp-26/libblas.so \
+	vendor/vndk/vndk-sp-26-arm64/libhidlbase.so:system/lib64/vndk-sp-26/libhidlbase.so \
 	vendor/vndk/vndk-sp-26-arm64/libft2.so:system/lib64/vndk-sp-26/libft2.so \
+	vendor/vndk/vndk-sp-26-arm64/libhidltransport.so:system/lib64/vndk-sp-26/libhidltransport.so \
+	vendor/vndk/vndk-sp-26-arm64/libRS_internal.so:system/lib64/vndk-sp-26/libRS_internal.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.mapper@2.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.mapper@2.0.so \
+	vendor/vndk/vndk-sp-26-arm64/hw/android.hidl.memory@1.0-impl.so:system/lib64/vndk-sp-26/hw/android.hidl.memory@1.0-impl.so \
+	vendor/vndk/vndk-sp-26-arm64/libRSCpuRef.so:system/lib64/vndk-sp-26/libRSCpuRef.so \
+	vendor/vndk/vndk-sp-26-arm64/libcutils.so:system/lib64/vndk-sp-26/libcutils.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hardware.graphics.allocator@2.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.allocator@2.0.so \
+	vendor/vndk/vndk-sp-26-arm64/libhwbinder.so:system/lib64/vndk-sp-26/libhwbinder.so \
+	vendor/vndk/vndk-sp-26-arm64/libc++.so:system/lib64/vndk-sp-26/libc++.so \
+	vendor/vndk/vndk-sp-26-arm64/libpng.so:system/lib64/vndk-sp-26/libpng.so \
+	vendor/vndk/vndk-sp-26-arm64/libutils.so:system/lib64/vndk-sp-26/libutils.so \
+	vendor/vndk/vndk-sp-26-arm64/android.hidl.memory@1.0.so:system/lib64/vndk-sp-26/android.hidl.memory@1.0.so \
+	vendor/vndk/vndk-sp-26-arm64/libbacktrace.so:system/lib64/vndk-sp-26/libbacktrace.so \
+	vendor/vndk/vndk-sp-26-arm64/libbcinfo.so:system/lib64/vndk-sp-26/libbcinfo.so \
+	vendor/vndk/vndk-sp-26-arm64/libbase.so:system/lib64/vndk-sp-26/libbase.so \
+	vendor/vndk/vndk-sp-26-arm64/libion.so:system/lib64/vndk-sp-26/libion.so \
 	vendor/vndk/vndk-27-arm64/libandroidfw.so:system/lib64/vndk-27/libandroidfw.so \
 	vendor/vndk/vndk-27-arm64/libandroid_runtime.so:system/lib64/vndk-27/libandroid_runtime.so \
 	vendor/vndk/vndk-27-arm64/libandroid.so:system/lib64/vndk-27/libandroid.so \
@@ -240,6 +240,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libimg_utils.so:system/lib64/vndk-27/libimg_utils.so \
 	vendor/vndk/vndk-27-arm64/libinput.so:system/lib64/vndk-27/libinput.so \
 	vendor/vndk/vndk-27-arm64/libjnigraphics.so:system/lib64/vndk-27/libjnigraphics.so \
+	vendor/vndk/vndk-27-arm64/libkeystore_binder.so:system/lib64/vndk-27/libkeystore_binder.so \
 	vendor/vndk/vndk-27-arm64/liblogwrap.so:system/lib64/vndk-27/liblogwrap.so \
 	vendor/vndk/vndk-27-arm64/libmediadrm.so:system/lib64/vndk-27/libmediadrm.so \
 	vendor/vndk/vndk-27-arm64/libmediametrics.so:system/lib64/vndk-27/libmediametrics.so \
@@ -259,6 +260,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libselinux.so:system/lib64/vndk-27/libselinux.so \
 	vendor/vndk/vndk-27-arm64/libsensor.so:system/lib64/vndk-27/libsensor.so \
 	vendor/vndk/vndk-27-arm64/libskia.so:system/lib64/vndk-27/libskia.so \
+	vendor/vndk/vndk-27-arm64/libsoftkeymaster.so:system/lib64/vndk-27/libsoftkeymaster.so \
 	vendor/vndk/vndk-27-arm64/libsonivox.so:system/lib64/vndk-27/libsonivox.so \
 	vendor/vndk/vndk-27-arm64/libsoundtrigger.so:system/lib64/vndk-27/libsoundtrigger.so \
 	vendor/vndk/vndk-27-arm64/libsparse.so:system/lib64/vndk-27/libsparse.so \
