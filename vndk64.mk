@@ -226,6 +226,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libcamera_client.so:system/lib64/vndk-27/libcamera_client.so \
 	vendor/vndk/vndk-27-arm64/libdebuggerd_client.so:system/lib64/vndk-27/libdebuggerd_client.so \
 	vendor/vndk/vndk-27-arm64/libdng_sdk.so:system/lib64/vndk-27/libdng_sdk.so \
+	vendor/vndk/vndk-27-arm64/libdrmframework.so:system/lib64/vndk-27/libdrmframework.so \
 	vendor/vndk/vndk-27-arm64/libeffectsconfig.so:system/lib64/vndk-27/libeffectsconfig.so \
 	vendor/vndk/vndk-27-arm64/libEGL.so:system/lib64/vndk-27/libEGL.so \
 	vendor/vndk/vndk-27-arm64/libETC1.so:system/lib64/vndk-27/libETC1.so \
@@ -265,6 +266,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libsonivox.so:system/lib64/vndk-27/libsonivox.so \
 	vendor/vndk/vndk-27-arm64/libsoundtrigger.so:system/lib64/vndk-27/libsoundtrigger.so \
 	vendor/vndk/vndk-27-arm64/libsparse.so:system/lib64/vndk-27/libsparse.so \
+	vendor/vndk/vndk-27-arm64/libstagefright.so:system/lib64/vndk-27/libstagefright.so \
 	vendor/vndk/vndk-27-arm64/libstdc++.so:system/lib64/vndk-27/libstdc++.so \
 	vendor/vndk/vndk-27-arm64/libvintf.so:system/lib64/vndk-27/libvintf.so \
 	vendor/vndk/vndk-27-arm64/libvulkan.so:system/lib64/vndk-27/libvulkan.so \
