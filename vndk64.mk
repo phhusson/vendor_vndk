@@ -240,6 +240,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libicuuc.so:system/lib64/vndk-27/libicuuc.so \
 	vendor/vndk/vndk-27-arm64/libimg_utils.so:system/lib64/vndk-27/libimg_utils.so \
 	vendor/vndk/vndk-27-arm64/libinput.so:system/lib64/vndk-27/libinput.so \
+	vendor/vndk/vndk-27-arm64/libjavacore.so:system/lib64/vndk-27/libjavacore.so \
 	vendor/vndk/vndk-27-arm64/libjnigraphics.so:system/lib64/vndk-27/libjnigraphics.so \
 	vendor/vndk/vndk-27-arm64/libkeystore_binder.so:system/lib64/vndk-27/libkeystore_binder.so \
 	vendor/vndk/vndk-27-arm64/liblogwrap.so:system/lib64/vndk-27/liblogwrap.so \
