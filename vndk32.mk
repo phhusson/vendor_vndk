@@ -68,8 +68,10 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libaudioutils.so:system/lib/vndk-26/libaudioutils.so \
 	vendor/vndk/vndk-26-arm32/libavservices_minijail.so:system/lib/vndk-26/libavservices_minijail.so \
 	vendor/vndk/vndk-26-arm32/libbinder.so:system/lib/vndk-26/libbinder.so \
+	vendor/vndk/vndk-26-arm32/libcamera2ndk.so:system/lib/vndk-26/libcamera2ndk.so \
 	vendor/vndk/vndk-26-arm32/libcamera_client.so:system/lib/vndk-26/libcamera_client.so \
 	vendor/vndk/vndk-26-arm32/libcamera_metadata.so:system/lib/vndk-26/libcamera_metadata.so \
+	vendor/vndk/vndk-26-arm32/libcameraservice.so:system/lib/vndk-26/libcameraservice.so \
 	vendor/vndk/vndk-26-arm32/libcap.so:system/lib/vndk-26/libcap.so \
 	vendor/vndk/vndk-26-arm32/libcrypto.so:system/lib/vndk-26/libcrypto.so \
 	vendor/vndk/vndk-26-arm32/libcrypto_utils.so:system/lib/vndk-26/libcrypto_utils.so \
