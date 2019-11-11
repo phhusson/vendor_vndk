@@ -277,8 +277,12 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libvintf.so:system/lib64/vndk-27/libvintf.so \
 	vendor/vndk/vndk-27-arm64/libvulkan.so:system/lib64/vndk-27/libvulkan.so \
 	vendor/vndk/vndk-28-arm64/libbufferhubqueue.so:system/lib64/vndk-28/libbufferhubqueue.so \
+	vendor/vndk/vndk-28-arm64/libdng_sdk.so:system/lib64/vndk-28/libdng_sdk.so \
 	vendor/vndk/vndk-28-arm64/libeffectsconfig.so:system/lib64/vndk-28/libeffectsconfig.so \
 	vendor/vndk/vndk-28-arm64/libharfbuzz_ng.so:system/lib64/vndk-28/libharfbuzz_ng.so \
+	vendor/vndk/vndk-28-arm64/libheif.so:system/lib64/vndk-28/libheif.so \
+	vendor/vndk/vndk-28-arm64/libicuuc.so:system/lib64/vndk-28/libicuuc.so \
+	vendor/vndk/vndk-28-arm64/libminikin.so:system/lib64/vndk-28/libminikin.so \
 	vendor/vndk/vndk-28-arm64/libpdx_default_transport.so:system/lib64/vndk-28/libpdx_default_transport.so \
 	vendor/vndk/vndk-28-arm64/libstdc++.so:system/lib64/vndk-28/libstdc++.so \
 

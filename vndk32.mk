@@ -278,8 +278,12 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm32/libvintf.so:system/lib/vndk-27/libvintf.so \
 	vendor/vndk/vndk-27-arm32/libvulkan.so:system/lib/vndk-27/libvulkan.so \
 	vendor/vndk/vndk-28-arm32/libbufferhubqueue.so:system/lib/vndk-28/libbufferhubqueue.so \
+	vendor/vndk/vndk-28-arm32/libdng_sdk.so:system/lib/vndk-28/libdng_sdk.so \
 	vendor/vndk/vndk-28-arm32/libeffectsconfig.so:system/lib/vndk-28/libeffectsconfig.so \
 	vendor/vndk/vndk-28-arm32/libharfbuzz_ng.so:system/lib/vndk-28/libharfbuzz_ng.so \
+	vendor/vndk/vndk-28-arm32/libheif.so:system/lib/vndk-28/libheif.so \
+	vendor/vndk/vndk-28-arm32/libicuuc.so:system/lib/vndk-28/libicuuc.so \
+	vendor/vndk/vndk-28-arm32/libminikin.so:system/lib/vndk-28/libminikin.so \
 	vendor/vndk/vndk-28-arm32/libpdx_default_transport.so:system/lib/vndk-28/libpdx_default_transport.so \
 	vendor/vndk/vndk-28-arm32/libstdc++.so:system/lib/vndk-28/libstdc++.so \
 
