@@ -81,7 +81,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm64/libdng_sdk.so:system/lib64/vndk-26/libdng_sdk.so \
 	vendor/vndk/vndk-26-arm64/libdrmframework.so:system/lib64/vndk-26/libdrmframework.so \
 	vendor/vndk/vndk-26-arm64/libdumpstateutil.so:system/lib64/vndk-26/libdumpstateutil.so \
-	vendor/vndk/vndk-26-arm64/libEGL.so:system/lib64/vndk-26/libEGL.so \
 	vendor/vndk/vndk-26-arm64/libETC1.so:system/lib64/vndk-26/libETC1.so \
 	vendor/vndk/vndk-26-arm64/libevent.so:system/lib64/vndk-26/libevent.so \
 	vendor/vndk/vndk-26-arm64/libexif.so:system/lib64/vndk-26/libexif.so \
