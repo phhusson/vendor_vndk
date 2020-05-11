@@ -175,7 +175,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-26-arm32/libstagefright_soft_vpxdec.so:system/lib/vndk-26/libstagefright_soft_vpxdec.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_soft_vpxenc.so:system/lib/vndk-26/libstagefright_soft_vpxenc.so \
 	vendor/vndk/vndk-26-arm32/libstagefright_xmlparser@1.0.so:system/lib/vndk-26/libstagefright_xmlparser@1.0.so \
-	vendor/vndk/vndk-26-arm32/libstdc++.so:system/lib/vndk-26/libstdc++.so \
 	vendor/vndk/vndk-26-arm32/libsuspend.so:system/lib/vndk-26/libsuspend.so \
 	vendor/vndk/vndk-26-arm32/libsysutils.so:system/lib/vndk-26/libsysutils.so \
 	vendor/vndk/vndk-26-arm32/libtinyalsa.so:system/lib/vndk-26/libtinyalsa.so \
@@ -214,6 +213,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm32/libRSCpuRef.so:system/lib/vndk-sp-26/libRSCpuRef.so \
 	vendor/vndk/vndk-sp-26-arm32/libhwbinder.so:system/lib/vndk-sp-26/libhwbinder.so \
 	vendor/vndk/vndk-sp-26-arm32/libpng.so:system/lib/vndk-sp-26/libpng.so \
+	vendor/vndk/vndk-sp-26-arm32/libstdc++.so:system/lib/vndk-sp-26/libstdc++.so \
 	vendor/vndk/vndk-sp-26-arm32/libbase.so:system/lib/vndk-sp-26/libbase.so \
 	vendor/vndk/vndk-sp-26-arm32/libunwind.so:system/lib/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm32/libbacktrace.so:system/lib/vndk-sp-26/libbacktrace.so \
