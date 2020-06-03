@@ -254,6 +254,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libmedia.so:system/lib64/vndk-27/libmedia.so \
 	vendor/vndk/vndk-27-arm64/libmediautils.so:system/lib64/vndk-27/libmediautils.so \
 	vendor/vndk/vndk-27-arm64/libmemunreachable.so:system/lib64/vndk-27/libmemunreachable.so \
+	vendor/vndk/vndk-27-arm64/libminijail.so:system/lib64/vndk-27/libminijail.so \
 	vendor/vndk/vndk-27-arm64/libminikin.so:system/lib64/vndk-27/libminikin.so \
 	vendor/vndk/vndk-27-arm64/libnativebridge.so:system/lib64/vndk-27/libnativebridge.so \
 	vendor/vndk/vndk-27-arm64/libnativehelper.so:system/lib64/vndk-27/libnativehelper.so \
