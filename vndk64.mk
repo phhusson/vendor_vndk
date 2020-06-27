@@ -286,4 +286,4 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-28-arm64/libminikin.so:system/lib64/vndk-28/libminikin.so \
 	vendor/vndk/vndk-28-arm64/libpdx_default_transport.so:system/lib64/vndk-28/libpdx_default_transport.so \
 	vendor/vndk/vndk-28-arm64/libstdc++.so:system/lib64/vndk-28/libstdc++.so \
-
+        vendor/vndk/vndk-29-arm64/libcamera_client.so:system/lib/vndk-29/libcamera_client.so

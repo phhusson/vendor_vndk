@@ -287,4 +287,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-28-arm32/libminikin.so:system/lib/vndk-28/libminikin.so \
 	vendor/vndk/vndk-28-arm32/libpdx_default_transport.so:system/lib/vndk-28/libpdx_default_transport.so \
 	vendor/vndk/vndk-28-arm32/libstdc++.so:system/lib/vndk-28/libstdc++.so \
+        vendor/vndk/vndk-29-arm32/libcamera_client.so:system/lib/vndk-29/libcamera_client.so \
+        vendor/vndk/vndk-29-arm32/libstagefright_softomx_plugin.so:system/lib/vndk-29/libstagefright_softomx_plugin.so
 
