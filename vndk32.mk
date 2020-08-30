@@ -277,6 +277,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm32/libstdc++.so:system/lib/vndk-27/libstdc++.so \
 	vendor/vndk/vndk-27-arm32/libvintf.so:system/lib/vndk-27/libvintf.so \
 	vendor/vndk/vndk-27-arm32/libvulkan.so:system/lib/vndk-27/libvulkan.so \
+	vendor/vndk/vndk-28-arm32/libandroid.so:system/lib/vndk-28/libandroid.so \
 	vendor/vndk/vndk-28-arm32/libbufferhubqueue.so:system/lib/vndk-28/libbufferhubqueue.so \
 	vendor/vndk/vndk-28-arm32/libcamera_client.so:system/lib/vndk-28/libcamera_client.so \
 	vendor/vndk/vndk-28-arm32/libdng_sdk.so:system/lib/vndk-28/libdng_sdk.so \
