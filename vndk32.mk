@@ -278,14 +278,22 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm32/libvintf.so:system/lib/vndk-27/libvintf.so \
 	vendor/vndk/vndk-27-arm32/libvulkan.so:system/lib/vndk-27/libvulkan.so \
 	vendor/vndk/vndk-28-arm32/libandroid.so:system/lib/vndk-28/libandroid.so \
+	vendor/vndk/vndk-28-arm32/libaudioclient.so:system/lib/vndk-28/libaudioclient.so \
+	vendor/vndk/vndk-28-arm32/libaudiomanager.so:system/lib/vndk-28/libaudiomanager.so \
 	vendor/vndk/vndk-28-arm32/libbufferhubqueue.so:system/lib/vndk-28/libbufferhubqueue.so \
 	vendor/vndk/vndk-28-arm32/libcamera_client.so:system/lib/vndk-28/libcamera_client.so \
 	vendor/vndk/vndk-28-arm32/libdng_sdk.so:system/lib/vndk-28/libdng_sdk.so \
 	vendor/vndk/vndk-28-arm32/libeffectsconfig.so:system/lib/vndk-28/libeffectsconfig.so \
 	vendor/vndk/vndk-28-arm32/libharfbuzz_ng.so:system/lib/vndk-28/libharfbuzz_ng.so \
 	vendor/vndk/vndk-28-arm32/libheif.so:system/lib/vndk-28/libheif.so \
+	vendor/vndk/vndk-28-arm32/libicui18n.so:system/lib/vndk-28/libicui18n.so \
 	vendor/vndk/vndk-28-arm32/libicuuc.so:system/lib/vndk-28/libicuuc.so \
+	vendor/vndk/vndk-28-arm32/libmedia.so:system/lib/vndk-28/libmedia.so \
+	vendor/vndk/vndk-28-arm32/libmediaextractor.so:system/lib/vndk-28/libmediaextractor.so \
+	vendor/vndk/vndk-28-arm32/libmediametrics.so:system/lib/vndk-28/libmediametrics.so \
 	vendor/vndk/vndk-28-arm32/libminikin.so:system/lib/vndk-28/libminikin.so \
 	vendor/vndk/vndk-28-arm32/libpdx_default_transport.so:system/lib/vndk-28/libpdx_default_transport.so \
+	vendor/vndk/vndk-28-arm32/libsonivox.so:system/lib/vndk-28/libsonivox.so \
 	vendor/vndk/vndk-28-arm32/libstdc++.so:system/lib/vndk-28/libstdc++.so \
-        vendor/vndk/vndk-29-arm32/libcamera_client.so:system/lib/vndk-29/libcamera_client.so
+	vendor/vndk/vndk-29-arm32/libcamera_client.so:system/lib/vndk-29/libcamera_client.so \
+
